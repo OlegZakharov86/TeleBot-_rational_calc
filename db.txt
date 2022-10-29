@@ -1,0 +1,20 @@
+Рациональные1Рациональные1Рациональные2356+Рациональные2356Рациональные3465*Рациональные
+1
+2
+*
+1478089954,Рациональные, <built-in function time>
+1478089954,Рациональные, <built-in function time>
+1478089954,34, <built-in function time>
+1478089954,34, <built-in function time>
+1478089954,67, <built-in function time>
+1478089954,67, <built-in function time>
+1478089954,-, <built-in function time>
+1478089954,-, <built-in function time>
+валерия,Рациональные, <built-in function time>
+валерия,56, <built-in function time>
+валерия,43, <built-in function time>
+валерия,-, <built-in function time>
+1478089954,Рациональные, <built-in function time>
+1478089954,56, <built-in function time>
+1478089954,43, <built-in function time>
+1478089954,-, <built-in function time>

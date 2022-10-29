@@ -60,6 +60,7 @@ def take_second_number(msg: telebot.types.Message, num1):
         num2 = float(msg.text)
         bot.send_message(chat_id=msg.from_user.id, text='Введите операцию', reply_markup=buttons2)
         bot.register_next_step_handler(message=msg, callback=rational_counter, num1=num1, num2=num2)
+        
     else:
         bot.send_message(chat_id=msg.from_user.id, text='Введите второе число')
  
