@@ -4,7 +4,7 @@ import telebot
 from log import log
 
 
-bot = telebot.TeleBot('5267030635:AAFXGO1TChI6R80GujpsI154ve7_0hk-EfQ')
+bot = telebot.TeleBot('')
 
 buttons = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True)
 buttons.row(telebot.types.KeyboardButton('Комплексные'),
